@@ -25,6 +25,12 @@ button {
     font-weight: bold;
 }
 
+#delete-btn {
+    background-color: white;
+    color: #5f9341;
+    border: solid 1px #5f9341;
+}
+
 ul {
     list-style: none;
     padding-left: 0;
