@@ -23,6 +23,7 @@ button {
     padding: 10px 20px;
     text-align: center;
     font-weight: bold;
+    cursor: pointer;
 }
 
 #delete-btn {
